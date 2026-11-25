@@ -106,7 +106,7 @@ Everything is tunable **without a rebuild** — see [⚙️ Configuration](#️-
 ### `go install`
 
 ```bash
-go install gitlab.com/specterog/SysPeek@latest
+go install github.com/Batman-Priv/SysPeek@latest
 ```
 
 Drops a `SysPeek.exe` in your `$GOBIN` (or `$GOPATH/bin`). Make sure that directory is on your `PATH`.
@@ -114,7 +114,7 @@ Drops a `SysPeek.exe` in your `$GOBIN` (or `$GOPATH/bin`). Make sure that direct
 ### 🔨 Build from source
 
 ```bash
-git clone https://gitlab.com/specterog/SysPeek.git
+git clone https://github.com/Batman-Priv/SysPeek.git
 cd SysPeek
 go build -o SysPeek.exe .
 ```

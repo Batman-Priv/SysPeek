@@ -1,4 +1,4 @@
-module gitlab.com/specterog/SysPeek
+module github.com/Batman-Priv/SysPeek
 
 go 1.25.0
 

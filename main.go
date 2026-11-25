@@ -8,8 +8,8 @@ import (
 	"runtime"
 	"time"
 
-	"gitlab.com/specterog/SysPeek/modules"
-	"gitlab.com/specterog/SysPeek/utils"
+	"github.com/Batman-Priv/SysPeek/modules"
+	"github.com/Batman-Priv/SysPeek/utils"
 )
 
 func main() {
